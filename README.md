@@ -20,4 +20,9 @@ I'm **Voltix_ant** and I'm actually learning frontend programming languages. I'm
 Here are the programming languages of which I master the basics :
 - HTML
 - CSS
-- JavaScript
+
+## My hobbies
+I am interesting in a lot of things like videogames, drones, bitmoney, pentesting, electronics, AI, MTB and others. I don't master all of these but I learn more and more every day.
+
+## I'm currently learning
+At the day of today, I am learning **JavaScript** and *how to use __Git__ and __GitHub__*.
