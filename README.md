@@ -21,9 +21,10 @@ Here are the programming languages of which I master the basics :
 - HTML
 - CSS
 - JavaScript
+- Python
 
 ## My hobbies
 I am interesting in a lot of things like videogames, drones, bitmoney, pentesting, electronics, AI, MTB and others. I don't master all of these but I learn more and more every day.
 
 ## I'm currently learning
-Today, I am learning **JavaScript**, **CSS**, *how to use __Git__ and __GitHub__* and **Python**.
+Today, I am learning **JavaScript**, **CSS**(SASS) and **Python**.
